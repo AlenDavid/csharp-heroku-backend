@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5rZws3CLqH8vvfVSsnKE0CrmjTsgpgEEzYyXDpdmp8c=",
+  "Source": "heroku-backend",
+  "BasePath": "_content/heroku-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
