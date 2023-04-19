@@ -15,6 +15,9 @@ This is what you will be doing.
 ```bash
 # edit this line
 APP=dotnet-backend
+mkdir $APP && cd $APP
+dotnet new webapi
+#===============#
 heroku create $APP --buildpack https://github.com/jincod/dotnetcore-buildpack.git
 heroku git:remote -a $APP
 git push heroku main
